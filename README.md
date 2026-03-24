@@ -21,5 +21,5 @@ gcc conversor.c -o conversor
 
 ## Datos del autor
 - Nombre: Edwin Pinto
-- Correo: tucorreo@correo.com
+- Correo: edwin.pinto@galileo.edu
 - Carnet: 20006700
