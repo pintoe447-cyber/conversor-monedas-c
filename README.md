@@ -16,8 +16,7 @@ Este proyecto consiste en una aplicación desarrollada en lenguaje C que permite
 5. Escribir la cantidad a convertir y visualizar el resultado.
 
 ## Ejemplo de compilación y ejecución
-```bash
-gcc conversor.c -o conversor
+gcc conversor.c -o conversor  
 ./conversor
 
 ## Datos del autor
